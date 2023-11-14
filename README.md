@@ -9,3 +9,7 @@
 I am thinking of a number between 1-100.
 
 Can you guess it?
+
+## License
+GuessTheNumber is licensed under the
+[MIT License](LICENSE).
