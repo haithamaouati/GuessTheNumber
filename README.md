@@ -3,7 +3,7 @@
 ![forks](https://custom-icon-badges.demolab.com/github/forks/haithamaouati/GuessTheNumber?logo=repo-forked)
 ![watchers](https://custom-icon-badges.demolab.com/github/watchers/haithamaouati/GuessTheNumber?logo=eye)
 
-# GuessTheNumber
+# Guess The Number
 [Guess The Number](https://haithamaouati.github.io/GuessTheNumber/) game in HTML, CSS and JavaScript.
 
 I am thinking of a number between 1-100.
@@ -11,5 +11,5 @@ I am thinking of a number between 1-100.
 Can you guess it?
 
 ## License
-GuessTheNumber is licensed under the
+Guess The Number is licensed under the
 [MIT License](LICENSE).
