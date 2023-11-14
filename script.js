@@ -22,3 +22,5 @@ function checkGuess() {
     document.getElementById('guesses').innerHTML = `No. Of Guesses: ${attempts}<br>Guessed Numbers are: ${guesses.join(', ')}`;
   }
 }
+
+mermaid.initialize({startOnLoad:true});
