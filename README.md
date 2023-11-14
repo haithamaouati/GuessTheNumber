@@ -10,6 +10,22 @@ I am thinking of a number between 1-100.
 
 Can you guess it?
 
+## Flowchart
+How it works?
+
+```mermaid
+graph TD;
+S(Start)
+S --> R[Generate random number]
+R --> N((Your guess))
+N --> L{Guess is low} -->|Yes| L1[Too low]
+L <-->|No| G{Guess is random}
+N --> G
+G -->|Yes| G1[Guessed]
+H <-->|No| G
+N --> H{Guess is high} -->|Yes| H1[Too high]
+```
+
 ## License
 Guess The Number is licensed under the
 [MIT License](LICENSE).
