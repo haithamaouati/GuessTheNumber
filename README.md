@@ -11,9 +11,17 @@ I am thinking of a number between 1-100.
 Can you guess it?
 
 ## Table of Contents
+- [Gameplay](#gameplay)
 - [Flowchart](#flowchart)
 - [Author](#author)
 - [License](#license)
+
+## Gameplay
+1. The game generates a random number between 1-100.
+2. Guess the random number in less than 10 attempts.
+3. If the guess is too low or too high than the random number, try again.
+4. If the number of attempts reaches 10 attempts, you lose.
+5. If the guess is equal to the random number, you win.
 
 ## Flowchart
 How it works?
