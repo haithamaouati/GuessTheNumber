@@ -1,8 +1,12 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Share Tech Mono', monospace;
   text-align: center;
 }
 
 #result, #guesses {
   margin-top: 20px;
+}
+
+hr {
+  width: 50%;
 }
