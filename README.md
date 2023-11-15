@@ -13,8 +13,9 @@ Can you guess it?
 ## Table of Contents
 - [Gameplay](#gameplay)
 - [Flowchart](#flowchart)
-- [Author](#author)
+- [Stars](#stars)
 - [License](#license)
+- [Author](#author)
 
 ## Gameplay
 1. The game generates a random number between 1-100.
@@ -37,14 +38,17 @@ N --> G
 G -->|Yes| G1[Guessed]
 H <-->|No| G
 N --> H{Guess is high} -->|Yes| H1[Too high]
-G1 -->|Yes| P(Play aging)
+G1 -->|Yes| P(Play again)
 H1 -->|10 Attempts| P
 L1 -->|10 Attempts| P
 ```
 
-## Author
-Made with :hearts: by **Haitham Aouati**
+## Stars
+Give a Star :star:
 
 ## License
 Guess The Number is licensed under the
 [MIT License](LICENSE).
+
+## Author
+Made with :hearts: by **Haitham Aouati**
