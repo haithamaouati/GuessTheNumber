@@ -10,6 +10,11 @@ I am thinking of a number between 1-100.
 
 Can you guess it?
 
+## Table of Contents
+- [Flowchart](#flowchart)
+- [Author](#author)
+- [License](#license)
+
 ## Flowchart
 How it works?
 
@@ -25,6 +30,9 @@ G -->|Yes| G1[Guessed]
 H <-->|No| G
 N --> H{Guess is high} -->|Yes| H1[Too high]
 ```
+
+## Author
+Made with :hearts: by **Haitham Aouati**
 
 ## License
 Guess The Number is licensed under the
