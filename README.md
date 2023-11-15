@@ -29,6 +29,9 @@ N --> G
 G -->|Yes| G1[Guessed]
 H <-->|No| G
 N --> H{Guess is high} -->|Yes| H1[Too high]
+G1 -->|Yes| P(Play aging)
+H1 -->|10 Attempts| P
+L1 -->|10 Attempts| P
 ```
 
 ## Author
