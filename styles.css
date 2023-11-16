@@ -7,11 +7,10 @@ body {
   margin-top: 20px;
 }
 
-textarea  
-{  
-   font-family: 'Share Tech Mono', monospace;  
-   font-size: 16px;
-   resize: none;
+textarea {
+  font-family: 'Share Tech Mono', monospace;  
+  font-size: 16px;
+  resize: none;
 }
 
 hr {
