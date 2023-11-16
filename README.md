@@ -26,6 +26,8 @@ How to play?
 4. If the number of attempts reaches 10 attempts, you lose.
 5. If the guess is equal to the random number, you win.
 
+Enjoy! :smile:
+
 ## Flowchart
 How it works?
 
@@ -46,7 +48,7 @@ L1 -->|10 Attempts| P
 ```
 
 ## Stars
-Give a Star :star:
+Give a Star :star: if you like it.
 
 ## License
 Guess The Number is licensed under the
