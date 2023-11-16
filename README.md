@@ -19,6 +19,7 @@ Can you guess it?
 - [Author](#author)
 
 ## Gameplay
+How to play?
 1. The game generates a random number between 1-100.
 2. Guess the random number in less than 10 attempts.
 3. If the guess is too low or too high than the random number, try again.
